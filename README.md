@@ -41,3 +41,7 @@
 
 #### Total Fares by City Type:
 ![image](https://github.com/ErmaSwartz/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png.png)
+
+### Summary 
+#### In Summary, the disparities show that rural communities by nature of having less people, also have less drivers and less riders and therefor have to pay more per ride. Some business recommendations that the company can consider are working to recruit more drivers in Rural Environments, increasing advertising and specific marketing in rural environments to appeal to the rural rider, as well as offering promotions and sales in rural environments to increase engagement with the companies services. 
+
