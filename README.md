@@ -24,3 +24,20 @@
 ##### The Average fare per rides: $ 34.62
 ##### The Average fare per driver: $ 55.49
 
+#### Total Number of Rides by city type:
+![image](https://github.com/ErmaSwartz/PyBer_Analysis/blob/main/Resources/total_number_of_rides_per_city_type.png)
+
+#### Total Number of Drivers by city type: 
+![image](https://github.com/ErmaSwartz/PyBer_Analysis/blob/main/Resources/total_number_of_drivers_per_city_type.png)
+
+#### Total Number of Fares by City type: 
+![image](https://github.com/ErmaSwartz/PyBer_Analysis/blob/main/Analysis/Number_of_fares_per_city_type.png)
+
+#### Averages: 
+![image](https://github.com/ErmaSwartz/PyBer_Analysis/blob/main/Analysis/Averages.png) 
+
+#### Sum of Fares per week:
+![image](https://github.com/ErmaSwartz/PyBer_Analysis/blob/main/Resources/Sum%20of%20fares%20per%20week%20.png)
+
+#### Total Fares by City Type:
+![image](https://github.com/ErmaSwartz/PyBer_Analysis/blob/main/Resources/PyBer_fare_summary.png.png)
